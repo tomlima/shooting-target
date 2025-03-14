@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/TomLima/RiderProjects/ShootingTarget/Content/background.jpg","C:/Users/TomLima/RiderProjects/ShootingTarget/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",79986,2622325,0.1244125
+"C:/Users/TomLima/RiderProjects/ShootingTarget/Content/crosshairs.png","C:/Users/TomLima/RiderProjects/ShootingTarget/Content/bin/DesktopGL/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.0026866
+"C:/Users/TomLima/RiderProjects/ShootingTarget/Content/galleryFont.spritefont","C:/Users/TomLima/RiderProjects/ShootingTarget/Content/bin/DesktopGL/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70690,0.091638
+"C:/Users/TomLima/RiderProjects/ShootingTarget/Content/target.png","C:/Users/TomLima/RiderProjects/ShootingTarget/Content/bin/DesktopGL/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0040402
