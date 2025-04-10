@@ -4,10 +4,10 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/TomLima/RiderProjects/ShootingTarget/Content/background.jpg</File>
-    <File>C:/Users/TomLima/RiderProjects/ShootingTarget/Content/crosshairs.png</File>
-    <File>C:/Users/TomLima/RiderProjects/ShootingTarget/Content/galleryFont.spritefont</File>
-    <File>C:/Users/TomLima/RiderProjects/ShootingTarget/Content/target.png</File>
+    <File>C:/Users/tomli/repos/shooting-target/Content/background.jpg</File>
+    <File>C:/Users/tomli/repos/shooting-target/Content/crosshairs.png</File>
+    <File>C:/Users/tomli/repos/shooting-target/Content/galleryFont.spritefont</File>
+    <File>C:/Users/tomli/repos/shooting-target/Content/target.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
