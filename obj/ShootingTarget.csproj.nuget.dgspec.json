@@ -1,26 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tomli\\repos\\shooting-target\\ShootingTarget.csproj": {}
+    "C:\\Users\\TomLima\\repos\\shooting-target\\ShootingTarget.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tomli\\repos\\shooting-target\\ShootingTarget.csproj": {
+    "C:\\Users\\TomLima\\repos\\shooting-target\\ShootingTarget.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tomli\\repos\\shooting-target\\ShootingTarget.csproj",
+        "projectUniqueName": "C:\\Users\\TomLima\\repos\\shooting-target\\ShootingTarget.csproj",
         "projectName": "ShootingTarget",
-        "projectPath": "C:\\Users\\tomli\\repos\\shooting-target\\ShootingTarget.csproj",
-        "packagesPath": "C:\\Users\\tomli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tomli\\repos\\shooting-target\\obj\\",
+        "projectPath": "C:\\Users\\TomLima\\repos\\shooting-target\\ShootingTarget.csproj",
+        "packagesPath": "C:\\Users\\TomLima\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TomLima\\repos\\shooting-target\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\tomli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\TomLima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,19 +70,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.15, 8.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.15, 8.0.15]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.15, 8.0.15]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.11, 8.0.11]"
+              "version": "[8.0.15, 8.0.15]"
             }
           ],
           "frameworkReferences": {
@@ -87,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
